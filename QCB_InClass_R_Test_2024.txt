@@ -1,0 +1,128 @@
+###############################################################
+##
+## MEDI6227 CLASS TEST
+## 
+## Each question is worth 1/2 mark, for a total of 10 marks
+##
+###############################################################
+
+### Student ID:
+
+Insert your student id above and return your completed R script 
+with answers to mjrz@soton.ac.uk once you have finished by 5 pm.
+
+###############################################################
+## Vectors
+###############################################################
+
+
+## Q1 create a numeric vector, v, with the elements 3,4,6,7,9.
+
+
+
+## Q2 print the elements of v that are greater than 4
+
+
+
+## Q3 sort the vector from low to high
+
+
+
+
+###############################################################
+## Basic statistical functions
+###############################################################
+
+## Q4 create a vector, x, of values from 1:674
+
+
+
+## Q5 print the mean of x
+
+
+
+## Q6 Calculate the product of the min and max of x
+
+
+
+############################################################### 
+## Matrices 
+###############################################################
+
+## Q7 create a matrix, m, with 4 rows x 3 columns with the values 1:12
+
+
+
+
+## Q8 transpose m (to a matrix of dimensions 3 x 4)
+
+
+
+###############################################################
+## Data in/out and data frames 
+###############################################################
+
+## Load the DNase data 'DNase' from base R using data(DNase)
+
+
+## Read the description for the DNase dataset 'help(DNase)'
+
+
+## Q9 write the DNase data to a comma-separated file
+
+
+
+## Q10 read the file you just created into a data.frame.
+
+
+
+## Q11 print the sum of the second column of the DNase data
+
+
+
+## Q12 print the 1st column of DNase, what type of variable is it?
+
+
+
+## Q13 print the density value of the 7th row
+
+
+
+## Q14 print the top 3 rows of DNase
+
+
+
+## Q15 print those entries where concentration > 0.1 AND density >0.10
+
+
+
+###############################################################
+## Plots and graphs 
+###############################################################
+
+## Q16 plot the concentrations vs density of the DNase data and add a chart title
+
+
+
+## Q17 Create histogram of density values from DNase
+
+
+     
+## Q18 Create a horizontal boxplot for density values from Run 2 from DNase and print the value of the thick black line on the box.
+
+
+
+
+## Q19 Print the value of the thick black line on the box.
+
+
+
+
+###############################################################
+## Statistical testing
+###############################################################
+
+### Q20 Use a linear model to investigate the effect of run on DNase concentration. Print the summary of the model.
+
+
+
